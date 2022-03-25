@@ -1,8 +1,8 @@
 # 👋 Pinkify 
-👑 Founder & Developer of [@Mystery]([https://github.com/Squola](https://discord.com/api/oauth2/authorize?client_id=955024540017242183&permissions=184653704689&scope=bot%20applications.commands))<br>
+👑 Founder & Developer of [@Mystery](https://discord.com/api/oauth2/authorize?client_id=955024540017242183&permissions=184653704689&scope=bot%20applications.commands)<br>
 ⚒️ Sr Manager of [@Texture Café™](https://discord.gg/texturecafe)<br>
+☁️ Inspired by [@UsboKirishima](https://github.com/UsboKirishima)<br>
 💻 All projects are **FREE** to download, **Keep Credits**<br>
-☁️ _Inspired by [@UsboKirishima]([https://github.com/BlackdestinyXX/](https://github.com/UsboKirishima))_
 
 # 🔍 About Me
 
