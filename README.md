@@ -5,7 +5,7 @@
 
 # 🔍 About Me
 
-👋 Hey, I'm Pinkify! I wannabe Software Developer/Coder from **Australia**<br>
+👋 Hey, I'm Pinkify! A wannabe Software Developer/Coder from **Australia**<br>
 ❤️ I love **Tech And Doing Anything Fun**<br>
 🎒 Currently a **School Student**<br>
 
