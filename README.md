@@ -11,4 +11,4 @@
 
 # ⚡ Skills
 
-![HTML](https://img.shields.io/badge/-HTML-black?&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?&logo=css3) ![Javascript](https://img.shields.io/badge/-Javascript-black?&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?&logo=mongodb) ![Github](https://img.shields.io/badge/-Github-black?&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-black?&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?&logo=css3) ![Javascript](https://img.shields.io/badge/-Javascript-black?&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?&logo=node.js)
