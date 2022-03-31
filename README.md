@@ -1,4 +1,4 @@
-# Hi👋, I'm Pinkify 
+# Hi 👋, I'm Pinkify 
 A wannabe Developer/Coder, and school student
 
 👑 Founder & Developer of [@Mystery](https://discord.com/api/oauth2/authorize?client_id=955024540017242183&permissions=184653704689&scope=bot%20applications.commands)<br>
